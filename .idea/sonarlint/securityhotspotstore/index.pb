@@ -13,3 +13,5 @@ Z
 browserstack.yml,a\0\a0c961fde3118d58ada1c4f276e0bda3a0a1a3a1
 Z
 *src/test/java/com/matheus/SampleCTest.java,7\4\74b39f20220044b99a947b1ae1e960cd951ec359
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
