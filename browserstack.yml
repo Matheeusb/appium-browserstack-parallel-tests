@@ -1,0 +1,22 @@
+userName: BROWSERSTACK_USERNAME
+accessKey: BROWSERSTACK_ACCESS_KEY
+
+app: src/main/resources/apps/LocalSample.apk
+autoGrantPermissions: true
+
+framework: testng
+appiumVersion: 2.0.1
+
+platforms:
+  - platformName: android
+    deviceName: ( Samsung Galaxy A34 || Xiaomi Redmi Note 8 )
+
+parallelsPerPlatform: 3
+
+browserstackLocal: true
+browserStackLocalOptions:
+  forceLocal: true
+
+buildName: appium-browserstack-parallel
+buildIdentifier: ${BUILD_NUMBER}
+projectName: Appium BrowserStack Parallel
