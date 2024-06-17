@@ -9,7 +9,7 @@ appiumVersion: 2.0.1
 
 platforms:
   - platformName: android
-    deviceName: ( Samsung Galaxy A34 || Xiaomi Redmi Note 8 )
+    deviceName: ( Samsung Galaxy A11 || Xiaomi Redmi Note 8 )
 
 parallelsPerPlatform: 3
 
